@@ -13,9 +13,5 @@
 */
 
 Route::get('/', function () {
-    return view('student.welcome');
-});
-
-Route::get('/home', function () {
-   return 'home';
+    return view('student.index');
 });
