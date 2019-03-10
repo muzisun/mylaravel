@@ -13,7 +13,7 @@
 */
 
 Route::get('/', function () {
-    return view('student.welcome');
+    return view('student.index');
 });
 
 Route::get('/home', function () {
