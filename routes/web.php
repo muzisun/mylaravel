@@ -15,7 +15,3 @@
 Route::get('/', function () {
     return view('student.index');
 });
-
-Route::get('/home', function () {
-   return 'home';
-});
