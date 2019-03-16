@@ -8,5 +8,5 @@ Homestead.json
 /.vagrant
 .phpunit.result.cache
 .idea
-storage/
-vendor
+/storage/
+/vendor
