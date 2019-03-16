@@ -7,6 +7,6 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
-.ide
+.idea
 storage/
 vendor
